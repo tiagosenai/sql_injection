@@ -8,5 +8,6 @@
 </head>
 <body>
     <h1>Painel Administrativo</h1>    
+    <a href="../index.php">Página Inicial</a>
 </body>
 </html>
